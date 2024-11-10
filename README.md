@@ -7,10 +7,12 @@ Welcome to the **Global Warming Awareness** project! This project aims to educat
 - [Project Overview](#project-overview)
 - [Features](#features)
 - [How to Use](#how-to-use)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Project Overview
+
+![global warming awareness.PNG](https://github.com/abdulcoder01/Global-Warming-Awarness/blob/main/global%20warming%20awareness.PNG)
+
 
 This project is a simple, static website designed to spread awareness about global warming. It includes information on:
 
