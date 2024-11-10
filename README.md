@@ -37,6 +37,6 @@ The website aims to provide clear, easy-to-understand information to inspire ind
 4. Share the website link with friends and family to spread awareness.
 
 ```bash
-git clone https://github.com/yourusername/global-warming-awareness.git
-cd global-warming-awareness
+git clone https://github.com/abdulcoder01/Global-Warming-Awarness.git
+cd Global-Warming-Awarness
 open index.html
