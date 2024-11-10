@@ -1,0 +1,84 @@
+/* General Styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+}
+
+body {
+    color: #333;
+    background-color: #f4f4f9;
+}
+
+header {
+    background-color: #4caf50;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+header h1 {
+    font-size: 2.5em;
+}
+
+header p {
+    font-size: 1.2em;
+}
+
+/* Main Content */
+main {
+    padding: 20px;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+section {
+    margin-bottom: 20px;
+}
+
+.intro, .effects, .take-action {
+    padding: 20px;
+    background-color: #e8f5e9;
+    border-left: 5px solid #4caf50;
+    border-radius: 5px;
+}
+
+h2 {
+    color: #388e3c;
+    font-size: 1.8em;
+    margin-bottom: 10px;
+}
+
+p, ul {
+    line-height: 1.6;
+}
+
+ul {
+    list-style: circle;
+    margin-left: 20px;
+}
+
+button {
+    background-color: #4caf50;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    font-size: 1em;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+button:hover {
+    background-color: #388e3c;
+}
+
+/* Footer */
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #4caf50;
+    color: #fff;
+    margin-top: 20px;
+}
